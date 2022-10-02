@@ -1,6 +1,15 @@
-## Getting Started
+## Enunciado do Exercício 6 - Lista de Extrutura Sequêncial
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+6 Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
+
+## Sobre o Projeto
+
+Este projeto é o `sexto` exercício proposto pelo professor **Montanha**!
+
+Foi passado como base a lista de _Estrutura Sequencial_ de Python.
+
+Link da lista completa: [Lista de Estrutura Sequencial](https://wiki.python.org.br/EstruturaSequencial)
+
 
 ## Folder Structure
 
